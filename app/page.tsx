@@ -90,6 +90,19 @@ export default function Home() {
             />
           </div>
         </div>
+
+        <div className="flex justify-center gap-6 mb-8">
+          <div className="h-12 w-auto bg-blue-50 rounded px-4 py-2 flex items-center justify-center">
+            <span className="text-blue-800 font-semibold text-sm">BBB Accredited</span>
+          </div>
+          <div className="h-12 w-auto bg-blue-50 rounded px-4 py-2 flex items-center justify-center">
+            <span className="text-blue-800 font-semibold text-sm">TrustPilot 5★</span>
+          </div>
+          <div className="h-12 w-auto bg-blue-50 rounded px-4 py-2 flex items-center justify-center">
+            <span className="text-blue-800 font-semibold text-sm">IRS Enrolled Agent</span>
+          </div>
+        </div>
+
         <h2 className="text-2xl font-semibold mb-4 text-blue-800">Ready to resolve your tax debt?</h2>
         <p className="text-blue-900 mb-6">
           Take our free qualification check to see if you're eligible for the IRS Offer in Compromise program.
