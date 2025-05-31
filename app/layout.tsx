@@ -8,6 +8,9 @@ export const metadata: Metadata = {
   title: 'Owe Money to the IRS? | Settle Tax Debt for Less',
   description: 'Behind on tax payments? Owe money to the IRS? Find out if you qualify to settle your tax debt for less than you owe through the IRS Offer in Compromise program.',
   keywords: 'owe taxes, tax debt help, owe money to IRS, back taxes, tax debt relief, IRS debt forgiveness, tax debt settlement, IRS payment plan',
+  verification: {
+    google: 'AKFdBhMGDGCP_BwdrbBWerO3gvTCmfx1lXTFU8PVVak'
+  },
   openGraph: {
     title: 'Owe Money to the IRS? | Settle Tax Debt for Less',
     description: 'Behind on tax payments? Find out if you qualify to settle your tax debt for less through the IRS Offer in Compromise program.',
